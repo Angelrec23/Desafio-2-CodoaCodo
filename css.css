@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.barradenav{
+    background-color: rgb(161, 161, 161);
+    text-align: end;
+    padding: 10px;
+    margin-left: 2px;
+    margin-right: 5px;
+
+}
+
+
+.texto2{
+    text-align: justify;
+    margin-left: 250px;
+    margin-right: 200px;
+
+}
+
+.texto3{
+    text-align: justify;
+    margin-left: 250px;
+    margin-right: 200px;
+}
+
+#img1{
+    height: 55px;
+    width: 130px;
+    margin-left: 15px;
+    margin-top: 15px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+#img2{
+    height: 85px;
+    width: 80px;
+    margin: 10px;
+    margin-left: 300px;
+}
+
+#img3{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    margin-left: 250px;
+}
+
+.piedepag{
+    background-color: rgb(161, 161, 161);
+    text-align: center;
+    height: 20px;
+    margin-left: 2px;
+    margin-top: 30px;
+    margin-right: 5px;
+}
